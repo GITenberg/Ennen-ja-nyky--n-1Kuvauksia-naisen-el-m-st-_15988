@@ -1,0 +1,29 @@
+_repo: Ennen-ja-nyky--n-1Kuvauksia-naisen-el-m-st-_15988
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ongelin, Hanna
+    birthdate: 1848
+    deathdate: 1893
+    gutenberg_agent_id: '6415'
+    url: http://www.gutenberg.org/2009/agents/6415
+    wikipedia: http://fi.wikipedia.org/wiki/Hanna_Ongelin
+description: ''
+gutenberg_issued: '2005-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15988'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Fiction'
+title: 'Ennen ja nykyään 1
+
+  Kuvauksia naisen elämästä'
+url: http://www.gutenberg.org/ebooks/15988
